@@ -1,0 +1,20 @@
+{
+    "Songs": [
+        {
+            "Title": "Y que fue",
+            "Artist": "idk | Import: Drelihan",
+            "Genre": "RnB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://109801275751892",
+            "Speed": 0.55
+        },
+          {
+            "Title": "HOME",
+            "Artist": "Crayonn",
+            "Genre": "EDM",
+            "ImageId": "",
+            "SoundId": "rbxassetid://119302425621433",
+            "Speed": 1
+      }
+    ]
+}
