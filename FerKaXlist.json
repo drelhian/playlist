@@ -3,18 +3,34 @@
         {
             "Title": "Y que fue",
             "Artist": "idk | Import: Drelihan",
-            "Genre": "Remix",
+            "Genre": "Spanish",
             "ImageId": "",
             "SoundId": "rbxassetid://109801275751892",
             "Speed": 0.55
         },
-          {
-            "Title": "idk",
-            "Artist": "idk",
-            "Genre": "idk",
+            {
+            "Title": "Ai Se Eu Te Pego",
+            "Artist": "Michel Teló | Import: Drelhian",
+            "Genre": "portugues",
             "ImageId": "",
-            "SoundId": "rbxassetid://119302425621433",
-            "Speed": 1
-      }
+            "SoundId": "rbxassetid://94250215590083",
+            "Speed": 0.57
+      },
+            {
+            "Title": "loca",
+            "Artist": "Shakira | Import: Drelihan",
+            "Genre": "Spanish",
+            "ImageId": "",
+            "SoundId": "rbxassetid://95097121019059",
+            "Speed": 0.55
+        },
+            {
+            "Title": "Bailando",
+            "Artist": "Enrique Iglesias | Import: Drelihan",
+            "Genre": "Spanish",
+            "ImageId": "",
+            "SoundId": "rbxassetid://124818609835115",
+            "Speed": 0.52
+        }
     ]
 }
