@@ -71,6 +71,22 @@
             "ImageId": "",
             "SoundId": "rbxassetid://90426438304464",
             "Speed": 0.52
+        },
+          {
+            "Title": "Macarena",
+            "Artist": "Los Del Rio | Import: Drelhian",
+            "Genre": "Spanish",
+            "ImageId": "",
+            "SoundId": "rbxassetid://90426438304464",
+            "Speed": 0.52
+        },
+            {
+            "Title": "Conga",
+            "Artist": "Gloria Estefan | Import: Drelhian",
+            "Genre": "English",
+            "ImageId": "",
+            "SoundId": "rbxassetid://130927968035794",
+            "Speed": 0.52
         }
     ]
 }
