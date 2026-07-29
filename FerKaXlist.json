@@ -11,7 +11,7 @@
             {
             "Title": "Ai Se Eu Te Pego",
             "Artist": "Michel Teló | Import: Drelhian",
-            "Genre": "portugues",
+            "Genre": "Portugues",
             "ImageId": "",
             "SoundId": "rbxassetid://94250215590083",
             "Speed": 0.57
@@ -30,6 +30,46 @@
             "Genre": "Spanish",
             "ImageId": "",
             "SoundId": "rbxassetid://124818609835115",
+            "Speed": 0.52
+        },
+             {
+            "Title": "Balada ao vivo",
+            "Artist": "Gusstavo Lima | Import: Drelihan",
+            "Genre": "Portugues",
+            "ImageId": "",
+            "SoundId": "rbxassetid://128941787951554",
+            "Speed": 0.53
+        },
+            {
+            "Title": "Danza Kuduro",
+            "Artist": "Don Omar | Import: Drelihan",
+            "Genre": "Spanish",
+            "ImageId": "",
+            "SoundId": "rbxassetid://73075786465761",
+            "Speed": 0.52
+        },
+            {
+            "Title": "Asereje",
+            "Artist": "Last ketchup | Import: Drelihan",
+            "Genre": "Spanish",
+            "ImageId": "",
+            "SoundId": "rbxassetid://116975422228646",
+            "Speed": 0.54
+        },
+           {
+            "Title": "Magalenha",
+            "Artist": "Sergio Mendes | Import: Drelihan",
+            "Genre": "Portugues",
+            "ImageId": "",
+            "SoundId": "rbxassetid://93352445480902",
+            "Speed": 0.55
+        },
+          {
+            "Title": "Mi buen amor",
+            "Artist": "Mon Laferte | Import: Drelihan",
+            "Genre": "Migajas",
+            "ImageId": "",
+            "SoundId": "rbxassetid://90426438304464",
             "Speed": 0.52
         }
     ]
