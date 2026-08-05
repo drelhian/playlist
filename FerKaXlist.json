@@ -3,7 +3,7 @@
         {
             "Title": "Y que fue",
             "Artist": "idk | Import: Drelhian",
-            "Genre": "Spanish",
+            "Genre": "Especiales",
             "ImageId": "",
             "SoundId": "rbxassetid://109801275751892",
             "Speed": 0.55
@@ -185,12 +185,12 @@
             "Speed": 0.52
         },
                     {
-            "Title": "Name",
-            "Artist": "Artist | Import: Drelhian",
-            "Genre": "NameGenre",
+            "Title": "Afro1",
+            "Artist": "idk | Import: Drelhian",
+            "Genre": "Especiales",
             "ImageId": "",
-            "SoundId": "rbxassetid://0",
-            "Speed": 0.52
+            "SoundId": "rbxassetid://98251444517438",
+            "Speed": 0.51
         },
                     {
             "Title": "Name",
