@@ -1,4 +1,8 @@
 {
+      "Albumes": [
+    { "Genre": "FerKaX", "IDImage": "rbxassetid://94110981389008" },
+    { "Genre": "RnB", "IDImage": "987654321" }
+  ],
     "Songs": [
         {
             "Title": "Y que fue",
