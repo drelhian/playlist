@@ -256,12 +256,12 @@
             "Speed": 0.5
         },
                     {
-            "Title": "Name",
-            "Artist": "Artist | Import: Drelhian",
+            "Title": "Vaca Lola",
+            "Artist": "Vaca | Import: Drelhian",
             "Genre": "Ferkax",
             "ImageId": "",
-            "SoundId": "rbxassetid://0",
-            "Speed": 0.52
+            "SoundId": "rbxassetid://84805035353461",
+            "Speed": 0.5
         }
     ]
 }
