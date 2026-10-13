@@ -303,9 +303,30 @@
             "SoundId": "rbxassetid://110994336273959",
             "Speed": 0.5
         },
-
-
-
+                    {
+            "Title": "Shorty Remix",
+            "Artist": "Yailin x Ezzy | Import: Drelhian",
+            "Genre": "SendoBetaStudios",
+            "ImageId": "rbxassetid://102971541187361",
+            "SoundId": "rbxassetid://132725767971184",
+            "Speed": 0.5
+        },
+                    {
+            "Title": "Me Quedo",
+            "Artist": "Daddy Yankee | Import: Drelhian",
+            "Genre": "SendoBetaStudios",
+            "ImageId": "rbxassetid://102971541187361",
+            "SoundId": "rbxassetid://123020800615141",
+            "Speed": 0.5
+        },
+                    {
+            "Title": "Training Season",
+            "Artist": "Dua Lipa | Import: Drelhian",
+            "Genre": "SendoBetaStudios",
+            "ImageId": "rbxassetid://102971541187361",
+            "SoundId": "rbxassetid://106255566785734",
+            "Speed": 0.5
+        },
 
 
 
